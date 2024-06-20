@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "snakeapi.h": "c",
+        "cui.h": "c",
+        "init.h": "c",
+        "structs.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
